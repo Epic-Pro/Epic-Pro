@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Epic-Pro. A Financial Analyst and ALX SE Program student. 
+- 👋 Hi, I’m Morris M. John [@Epic-Pro]. A Financial Analyst and ALX SE Program student. 
 - 👀 I’m interested in Financial Forecasting, Modelling, Forecasting, and Business Research Consultation. Software Engineering is my new passion and field of interest. 
 - 🌱 I’m currently learning Software Engineering through the ALX SE Program. 
 - 💞️ I’m looking to collaborate on diverse repositories in Software Engineering and have an in-depth understanding of this resourceful course. 
